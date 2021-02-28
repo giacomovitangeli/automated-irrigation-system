@@ -1,9 +1,9 @@
 # Autometed-Irrigation-System
 
-###Raspberry Pi based project to automate the irrigation process.
+### Raspberry Pi based project to automate the irrigation process.
 
 
-##Instruments:
+## Instruments:
 * Raspberry Pi 4B
 * Relay module
 * Water pump

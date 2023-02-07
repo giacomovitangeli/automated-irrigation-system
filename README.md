@@ -1,4 +1,4 @@
-# Automated-Irrigation-System
+# Automated Irrigation System
 
 ### Raspberry Pi based project to automate the irrigation process.
 
